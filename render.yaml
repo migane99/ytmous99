@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ytmous
+    name: ytmous-youtube-proxy
     env: python
     region: Oregon
     plan: free
